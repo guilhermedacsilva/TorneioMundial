@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EffekseerProject>
+  <Option>
+    <FontSize>18</FontSize>
+    <LanguageSelector>en</LanguageSelector>
+  </Option>
+  <Recording>
+    <RecordingWidth>288</RecordingWidth>
+    <RecordingHeight>288</RecordingHeight>
+    <RecordingStartingFrame>2</RecordingStartingFrame>
+    <RecordingEndingFrame>9</RecordingEndingFrame>
+    <RecordingHorizontalCount>8</RecordingHorizontalCount>
+    <RecordingTransparentMethod>2</RecordingTransparentMethod>
+  </Recording>
+</EffekseerProject>
